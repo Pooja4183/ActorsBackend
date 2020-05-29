@@ -1,0 +1,331 @@
+[
+  {
+    "id": 1,
+    "title": "Most Viewed Items",
+    "products": [
+      {
+        "id": 1,
+        "price": 1250,
+        "img1": "http://bestjquery.com/tutorial/product-grid/demo9/images/img-1.jpg",
+        "img2": "http://bestjquery.com/tutorial/product-grid/demo9/images/img-2.jpg",
+        "productName": "Lakme red Lipstic",
+        "brand": "Lakme",
+        "discountPrice": 390,
+        "discountLable": "50%",
+        "rating": 4,
+        "sale": "Sale"
+      },
+
+      {
+        "id": 2,
+        "price": 1990,
+        "img1": "http://bestjquery.com/tutorial/product-grid/demo9/images/img-3.jpg",
+        "img2": "http://bestjquery.com/tutorial/product-grid/demo9/images/img-4.jpg",
+        "productName": "Men's Plain Tshirt",
+        "brand": "M.A.C",
+        "discountPrice": 390,
+        "discountLable": "50%",
+        "rating": 5,
+        "sale": "Sale"
+      },
+
+      {
+        "id": 3,
+        "price": 1750,
+        "img1": "http://bestjquery.com/tutorial/product-grid/demo9/images/img-5.jpg",
+        "img2": "http://bestjquery.com/tutorial/product-grid/demo9/images/img-6.jpg",
+        "productName": "SkinShield Anti-Pollution Matte Foundation",
+        "brand": "NYKAA",
+        "discountPrice": 450,
+        "discountLable": "40%",
+        "rating": 2,
+        "sale": "Sale"
+      },
+
+      {
+        "id": 4,
+        "price": 250,
+        "img1": "http://bestjquery.com/tutorial/product-grid/demo9/images/img-7.jpg",
+        "img2": "http://bestjquery.com/tutorial/product-grid/demo9/images/img-8.jpg",
+        "productName": "M.A.C Studio Fix Powder Plus Foundation",
+        "brand": "M.A.C",
+        "discountPrice": 90,
+        "discountLable": "50%",
+        "rating": 2,
+        "sale": "Sale"
+      },
+
+      {
+        "id": 5,
+        "price": 50,
+        "img1": "http://bestjquery.com/tutorial/product-grid/demo3/images/img-1.jpeg",
+        "img2": "http://bestjquery.com/tutorial/product-grid/demo3/images/img-2.jpeg",
+        "productName": "Blush Duo Palette",
+        "brand": "M.A.C",
+        "discountPrice": 390,
+        "discountLable": "50%",
+        "rating": 5,
+        "sale": "Sale"
+      },
+
+      {
+        "id": 6,
+        "price": 1150,
+        "img1": "http://bestjquery.com/tutorial/product-grid/demo3/images/img-3.jpeg",
+        "img2": "http://bestjquery.com/tutorial/product-grid/demo3/images/img-4.jpeg",
+        "productName": "Blush Duo Palette",
+        "brand": "M.A.C",
+        "discountPrice": 390,
+        "discountLable": "50%",
+        "rating": 4,
+        "sale": "Sale"
+      },
+
+      {
+        "id": 7,
+        "price": 1290,
+        "img1": "http://bestjquery.com/tutorial/product-grid/demo3/images/img-5.jpeg",
+        "img2": "http://bestjquery.com/tutorial/product-grid/demo3/images/img-6.jpeg",
+        "productName": "Blush Duo Palette",
+        "brand": "M.A.C",
+        "discountPrice": 490,
+        "discountLable": "50%",
+        "rating": 3,
+        "sale": "Sale"
+      },
+
+      {
+        "id": 8,
+        "price": 1350,
+        "img1": "http://bestjquery.com/tutorial/product-grid/demo3/images/img-7.jpeg",
+        "img2": "http://bestjquery.com/tutorial/product-grid/demo3/images/img-8.jpeg",
+        "productName": "Blush Duo Palette",
+        "brand": "M.A.C",
+        "discountPrice": 390,
+        "discountLable": "50%",
+        "rating": 4,
+        "sale": "Sale"
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+    "title": "SPECIAL SELECTION FOR YOU",
+    "products": [
+      {
+        "id": 1,
+        "price": 1250,
+        "img1": "http://bestjquery.com/tutorial/product-grid/demo4/images/img-1.jpg",
+        "img2": "http://bestjquery.com/tutorial/product-grid/demo4/images/img-2.jpg",
+        "productName": "Lakme red Lipstic",
+        "brand": "Lakme",
+        "discountPrice": 390,
+        "discountLable": "50%",
+        "rating": 1,
+        "sale": "Sale"
+      },
+
+      {
+        "id": 2,
+        "price": 1990,
+        "img1": "http://bestjquery.com/tutorial/product-grid/demo4/images/img-3.jpg",
+        "img2": "http://bestjquery.com/tutorial/product-grid/demo4/images/img-4.jpg",
+        "productName": "Shimmer Brick Highlighter Palette",
+        "brand": "M.A.C",
+        "discountPrice": 390,
+        "discountLable": "50%",
+        "rating": 4,
+        "sale": "Sale"
+      },
+
+      {
+        "id": 3,
+        "price": 750,
+        "img1": "http://bestjquery.com/tutorial/product-grid/demo4/images/img-5.jpg",
+        "img2": "http://bestjquery.com/tutorial/product-grid/demo4/images/img-6.jpg",
+        "productName": "SkinShield Anti-Pollution Matte Foundation",
+        "brand": "NYKAA",
+        "discountPrice": 390,
+        "discountLable": "50%",
+        "rating": 3,
+        "sale": "Sale"
+      },
+
+      {
+        "id": 4,
+        "price": 250,
+        "img1": "http://bestjquery.com/tutorial/product-grid/demo4/images/img-7.jpg",
+        "img2": "http://bestjquery.com/tutorial/product-grid/demo4/images/img-8.jpg",
+        "productName": "M.A.C Studio Fix Powder Plus Foundation",
+        "brand": "M.A.C",
+        "discountPrice": 390,
+        "discountLable": "50%",
+        "rating": 5,
+        "sale": "Sale"
+      },
+
+      {
+        "id": 5,
+        "price": 50,
+        "img1": "http://bestjquery.com/tutorial/product-grid/demo5/images/img-1.jpg",
+        "img2": "http://bestjquery.com/tutorial/product-grid/demo5/images/img-2.jpg",
+        "productName": "Blush Duo Palette",
+        "brand": "M.A.C",
+        "discountPrice": 390,
+        "discountLable": "50%",
+        "rating": 4,
+        "sale": "Sale"
+      },
+
+      {
+        "id": 6,
+        "price": 50,
+        "img1": "http://bestjquery.com/tutorial/product-grid/demo5/images/img-3.jpg",
+        "img2": "http://bestjquery.com/tutorial/product-grid/demo5/images/img-4.jpg",
+        "productName": "Blush Duo Palette",
+        "brand": "M.A.C",
+        "discountPrice": 390,
+        "discountLable": "50%",
+        "rating": 3,
+        "sale": "Sale"
+      },
+
+      {
+        "id": 7,
+        "price": 50,
+        "img1": "http://bestjquery.com/tutorial/product-grid/demo5/images/img-5.jpg",
+        "img2": "http://bestjquery.com/tutorial/product-grid/demo5/images/img-6.jpg",
+        "productName": "Blush Duo Palette",
+        "brand": "M.A.C",
+        "discountPrice": 390,
+        "discountLable": "50%",
+        "rating": 4,
+        "sale": "Sale"
+      },
+
+      {
+        "id": 8,
+        "price": 50,
+        "img1": "http://bestjquery.com/tutorial/product-grid/demo5/images/img-7.jpg",
+        "img2": "http://bestjquery.com/tutorial/product-grid/demo5/images/img-8.jpg",
+        "productName": "Blush Duo Palette",
+        "brand": "M.A.C",
+        "discountPrice": 390,
+        "discountLable": "50%",
+        "rating": 4,
+        "sale": "Sale"
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "title": "New Beauty Products Added",
+    "products": [
+      {
+        "id": 1,
+        "price": 1250,
+        "img1": "http://bestjquery.com/tutorial/product-grid/demo11/images/img-1.jpg",
+        "img2": "http://bestjquery.com/tutorial/product-grid/demo11/images/img-2.jpg",
+        "productName": "Lakme red Lipstic",
+        "brand": "Lakme",
+        "discountPrice": 390,
+        "discountLable": "50%",
+        "rating": 5,
+        "sale": "Sale"
+      },
+
+      {
+        "id": 2,
+        "price": 1990,
+        "img1": "http://bestjquery.com/tutorial/product-grid/demo11/images/img-3.jpg",
+        "img2": "http://bestjquery.com/tutorial/product-grid/demo11/images/img-4.jpg",
+        "productName": "Shimmer Brick Highlighter Palette",
+        "brand": "M.A.C",
+        "discountPrice": 390,
+        "discountLable": "50%",
+        "rating": 4,
+        "sale": "Sale"
+      },
+
+      {
+        "id": 3,
+        "price": 750,
+        "img1": "http://bestjquery.com/tutorial/product-grid/demo11/images/img-5.jpg",
+        "img2": "http://bestjquery.com/tutorial/product-grid/demo11/images/img-6.jpg",
+        "productName": "SkinShield Anti-Pollution Matte Foundation",
+        "brand": "NYKAA",
+        "discountPrice": 390,
+        "discountLable": "50%",
+        "rating": 4,
+        "sale": "Sale"
+      },
+
+      {
+        "id": 4,
+        "price": 250,
+        "img1": "http://bestjquery.com/tutorial/product-grid/demo11/images/img-7.jpg",
+        "img2": "http://bestjquery.com/tutorial/product-grid/demo11/images/img-8.jpg",
+        "productName": "M.A.C Studio Fix Powder Plus Foundation",
+        "brand": "M.A.C",
+        "discountPrice": 390,
+        "discountLable": "50%",
+        "rating": 3,
+        "sale": "Sale"
+      },
+
+      {
+        "id": 5,
+        "price": 50,
+        "img1": "http://bestjquery.com/tutorial/product-grid/demo8/images/img-8.jpg",
+        "img2": "http://bestjquery.com/tutorial/product-grid/demo8/images/img-7.jpg",
+        "productName": "Blush Duo Palette",
+        "brand": "M.A.C",
+        "discountPrice": 390,
+        "discountLable": "50%",
+        "rating": 3,
+        "sale": "Sale"
+      },
+
+      {
+        "id": 6,
+        "price": 50,
+        "img1": "http://bestjquery.com/tutorial/product-grid/demo8/images/img-3.jpg",
+        "img2": "http://bestjquery.com/tutorial/product-grid/demo8/images/img-4.jpg",
+        "productName": "Blush Duo Palette",
+        "brand": "M.A.C",
+        "discountPrice": 390,
+        "discountLable": "50%",
+        "rating": 3,
+        "sale": "Sale"
+      },
+
+      {
+        "id": 7,
+        "price": 50,
+        "img1": "http://bestjquery.com/tutorial/product-grid/demo10/images/img-3.jpg",
+        "img2": "http://bestjquery.com/tutorial/product-grid/demo7/images/img-1.jpg",
+        "productName": "Blush Duo Palette",
+        "brand": "M.A.C",
+        "discountPrice": 390,
+        "discountLable": "50%",
+        "rating": 3,
+        "sale": "Sale"
+      },
+
+      {
+        "id": 8,
+        "price": 50,
+        "img1": "http://bestjquery.com/tutorial/product-grid/demo8/images/img-1.jpg",
+        "img2": "http://bestjquery.com/tutorial/product-grid/demo8/images/img-2.jpg",
+        "productName": "Blush Duo Palette",
+        "brand": "M.A.C",
+        "discountPrice": 390,
+        "discountLable": "50%",
+        "rating": 3,
+        "sale": "Sale"
+      }
+    ]
+  }
+]
